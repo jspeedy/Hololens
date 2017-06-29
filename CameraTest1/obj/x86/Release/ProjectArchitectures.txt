@@ -1,0 +1,4 @@
+C:\Users\User\Documents\CameraTest1\AppPhotoSave3\CameraTest1\CameraTest1.csproj;x86
+C:\Users\User\Documents\CameraTest1\AppPhotoSave3\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\User\Documents\CameraTest1\AppPhotoSave3\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\User\Documents\CameraTest1\AppPhotoSave3\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
